@@ -56,7 +56,8 @@
         width: 50%;
     }
     .section-text {
-        width: 40%;
+        /* width: 40%; */
+        max-width: 500px;
     }
 
     .section-image {
@@ -111,6 +112,7 @@
         background-image: url(Fondo-Web.jpg);
         background-repeat: no-repeat;
         background-position: top;
+        background-size: cover
 
 
     }
